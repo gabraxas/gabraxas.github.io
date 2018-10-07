@@ -1,0 +1,17 @@
+---
+layout : post
+title : How to Github
+---
+
+## Markdown 사용법
+Markdown은 <html>과 같이 거추장 스러운 것이 없이 바로 시작할 수 있다.
+** 소재목 강조(bold)
+```java
+```
+
+링크:
+[링크](https://gabraxas.github.io)
+
+이미지링크:
+![_imgae]({{gabraxas.github.io}}/images/moo.jpg
+
